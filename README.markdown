@@ -1,7 +1,7 @@
 Gimme Status
 ============
 
-A trivial sinatra qpp that returns the status code you want.
+A trivial sinatra app that returns the status code you want.
 
 Run it with:
 	ruby gimme_status.rb
