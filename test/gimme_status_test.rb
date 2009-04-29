@@ -1,7 +1,7 @@
-require 'rubygems'
+require '../gimme_status'
 require 'test/unit'
 require "rack/test"
-require '../gimme_status'
+
 
 class GimmeStatusTest < Test::Unit::TestCase
   include Rack::Test::Methods
