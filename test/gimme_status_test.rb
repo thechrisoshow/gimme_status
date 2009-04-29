@@ -1,7 +1,6 @@
 require 'rubygems'
 require 'test/unit'
 require "rack/test"
-require "sinatra/test"
 require '../gimme_status'
 
 class GimmeStatusTest < Test::Unit::TestCase
